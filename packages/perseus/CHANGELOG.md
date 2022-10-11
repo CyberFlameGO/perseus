@@ -1,5 +1,28 @@
 # @khanacademy/perseus
 
+## 0.5.0
+
+### Minor Changes
+
+-   61a7084e: make multi-select options look more like checkboxes
+
+### Patch Changes
+
+-   ea104d1c: Delete original choice icon now that it's been refactored and moved
+-   80e2cafc: refactor focus-ring to functional component
+-   f567f660: Update the eslint config to look at both the package.json for the package and the one from the root
+-   61a7084e: code cleanup for the choice-icon radio sub-component
+-   16eccaea: convert Radio's Choice component into a functional component
+-   d4d2b3a6: removes unused crossOutButton component
+-   f5682ad6: fixes a bug in the multiselect radio widget to allow selected choices to be unselected
+-   Updated dependencies [f567f660]
+    -   @khanacademy/kas@0.2.7
+    -   @khanacademy/kmath@0.0.8
+    -   @khanacademy/math-input@0.6.3
+    -   @khanacademy/perseus-linter@0.2.3
+    -   @khanacademy/pure-markdown@0.1.3
+    -   @khanacademy/simple-markdown@0.8.6
+
 ## 0.4.3
 
 ### Patch Changes

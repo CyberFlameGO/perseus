@@ -1,5 +1,22 @@
 # @khanacademy/perseus-editor
 
+## 0.4.4
+
+### Patch Changes
+
+-   f567f660: Update the eslint config to look at both the package.json for the package and the one from the root
+-   Updated dependencies [ea104d1c]
+-   Updated dependencies [80e2cafc]
+-   Updated dependencies [f567f660]
+-   Updated dependencies [61a7084e]
+-   Updated dependencies [16eccaea]
+-   Updated dependencies [d4d2b3a6]
+-   Updated dependencies [f5682ad6]
+-   Updated dependencies [61a7084e]
+    -   @khanacademy/perseus@0.5.0
+    -   @khanacademy/kas@0.2.7
+    -   @khanacademy/kmath@0.0.8
+
 ## 0.4.3
 
 ### Patch Changes
